@@ -21,6 +21,8 @@ creator:
     gutenberg_agent_id: '9236'
     url: http://www.gutenberg.org/2009/agents/9236
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20330#The-Black-Wolf-s-Breed--13-A-Story-of-France-in-the-Old-World-and-the-New-happening-in-the-Re_
 gutenberg_issued: '2007-01-11'
 gutenberg_type: Text
 identifiers:
